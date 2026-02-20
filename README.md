@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**muras3/muras3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# muras3
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api?username=muras3&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true&icon_color=888&text_color=aaa&ring_color=888" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muras3&layout=compact&theme=transparent&hide_border=true&hide_title=true&text_color=aaa" height="160" />
+
+<br><br>
+
+[![X](https://img.shields.io/badge/-@tomatolinux-333?style=flat-square&logo=x&logoColor=white)](https://x.com/tomatolinux)
+
+</div>
